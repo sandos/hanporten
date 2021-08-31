@@ -29,3 +29,11 @@ som företagskund.
 I Ellevios nät finns mätarna:
 
 * [Sagemcom S211](matare.md#sagemcom-s211)
+
+## Mälarenergi
+
+Du kan aktivera HAN-porten via email. 
+
+Mälarenergi har dessa mätare:
+
+* Kaifa MA304H4PSE (RJ-45)
